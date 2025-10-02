@@ -1,4 +1,4 @@
-## Hi there ladies and gentlemen 👋（￣︶￣）↗　
+## Hi there 👋（￣︶￣）
 
 - 🔭 I’m currently working on several projects, including but not limited to:
   *  🌊 A replica of Tessendorf waves with integration of modern GPU optimisations.

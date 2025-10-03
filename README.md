@@ -1,5 +1,5 @@
 
-![Contribution Snake](./snake/snake.gif)
+![Snake animation](./dist/github-contribution-grid-snake.svg)
 
 ![Vulkan](https://img.shields.io/badge/Vulkan-4863FF?logo=vulkan&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)

@@ -10,4 +10,4 @@
 - 💬 Ask me about Real-Time Computer Graphics
 - 📫 How to reach me: You can reach me through my email, mohamedt.mohamed@mail.utoronto.ca
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: For the life of me, I don't like Python. C# and C++ is my meat
+- ⚡ Fun fact: For the life of me, I don't like Python. C# and C++ is my love and joy

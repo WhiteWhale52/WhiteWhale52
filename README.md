@@ -1,3 +1,7 @@
+## My contributions (fun)
+
+![Contribution Snake](./snake/snake.gif)
+
 ## Hi there 👋（￣︶￣）
 
 - 🔭 I’m currently working on several projects, including but not limited to:

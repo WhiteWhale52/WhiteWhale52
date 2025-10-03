@@ -1,4 +1,3 @@
-## My contributions (fun)
 
 ![Contribution Snake](./snake/snake.gif)
 

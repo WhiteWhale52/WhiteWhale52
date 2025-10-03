@@ -20,9 +20,9 @@ jobs:
         uses: Platane/snk@v3.3.0
         with:
              github_user_name: ${{ github.repository_owner }}
-              output-file: ./snake/snake.gif
-              output-format: svg
-              username: ${{ github.repository_owner }}
+             output-file: ./snake/snake.gif
+             output-format: svg
+             username: ${{ github.repository_owner }}
 
         outputs:|
           dist/github-snake.svg 

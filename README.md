@@ -4,8 +4,11 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-%23A41E22.svg?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23FFFFFF.svg?logo=unity&logoColor=black)
 ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-0A0A0A?logo=computer&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteWhale52&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhale52&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteWhale52&theme=react-dark)
+
 
 
 ## Hi there 👋（￣︶￣）

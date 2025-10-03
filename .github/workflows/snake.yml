@@ -19,12 +19,14 @@ jobs:
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.3.0
         with:
-          # output filename relative to repo root
-          output-file: ./snake/snake.gif
-          # format: gif (alternatively: svg)
-          output-format: gif
-          # set username: it defaults to the repo owner; usually not necessary
-          username: ${{ github.repository_owner }}
+             github_user_name: ${{ github.repository_owner }}
+              output-file: ./snake/snake.gif
+              output-format: svg
+              username: ${{ github.repository_owner }}
+
+        outputs:|
+          dist/github-snake.svg 
+         
 
       - name: Commit generated animation
         run: |

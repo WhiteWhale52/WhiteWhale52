@@ -2,6 +2,11 @@
 
 ![Contribution Snake](./snake/snake.gif)
 
+![Vulkan](https://img.shields.io/badge/Vulkan-4863FF?logo=vulkan&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
+![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-0A0A0A?logo=computer&logoColor=white)
+
+
 ## Hi there 👋（￣︶￣）
 
 - 🔭 I’m currently working on several projects, including but not limited to:

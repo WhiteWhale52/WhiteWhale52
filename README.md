@@ -1,8 +1,8 @@
 ![GitHub Snake Light](dist/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](dist/github-snake-dark.svg#gh-dark-mode-only)
 
-![Vulkan](https://img.shields.io/badge/Vulkan-4863FF?logo=vulkan&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-222C37?logo=unity&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-%23A41E22.svg?style=for-the-badge&logo=vulkan&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23FFFFFF.svg?logo=unity&logoColor=white)
 ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-0A0A0A?logo=computer&logoColor=white)
 
 

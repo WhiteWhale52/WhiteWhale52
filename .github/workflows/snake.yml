@@ -16,8 +16,8 @@ jobs:
           # the profile repo (the README repository)
           fetch-depth: 0
 
-      - name: Generate snake animation (platane/snk)
-        uses: platane/snk@v1
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
         with:
           # output filename relative to repo root
           output-file: ./snake/snake.gif

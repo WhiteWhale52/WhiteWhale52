@@ -24,8 +24,7 @@ jobs:
              output-format: svg
              username: ${{ github.repository_owner }}
 
-        outputs:|
-          dist/github-snake.svg 
+
          
 
       - name: Commit generated animation

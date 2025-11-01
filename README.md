@@ -6,12 +6,6 @@
 ![Computer Graphics](https://img.shields.io/badge/Computer%20Graphics-0A0A0A?logo=computer&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=WhiteWhale52&color=blueviolet)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteWhale52&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhale52&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteWhale52&theme=react-dark)
-
-
 ## Hi there 👋（￣︶￣）
 
 - 🔭 I’m currently working on several projects, including but not limited to:
@@ -25,3 +19,8 @@
 - 📫 How to reach me: You can reach me through my email, mohamedt.mohamed@mail.utoronto.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: For the life of me, I don't like Python. C# and C++ is my love and joy
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteWhale52&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhale52&layout=compact&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteWhale52&theme=react-dark)

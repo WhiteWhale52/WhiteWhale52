@@ -21,6 +21,7 @@
 - ⚡ Fun fact: For the life of me, I don't like Python. C# and C++ is my love and joy
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteWhale52&show_icons=true&theme=radical)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteWhale52&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhale52&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteWhale52&layout=compact&theme=tokyonight)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WhiteWhale52&theme=react-dark)
